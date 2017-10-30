@@ -8,16 +8,12 @@ C'est l'occasion d'échanger sur ses thématiques de recherche, ainsi que de s'e
 
 <img src="img/logoLMAC_SU.jpg" alt="New logo of the LMAC" style="width: 200px;"/>
 
-## Welcome to GitHub Pages
-
-
-Voici la page principale
-
-
-A partir de cette page, on peut aller sur une autre par ce lien
-
-[go to about](about)
+## Calendrier et abstract des présentations à venir
 
 [go to calendar](calendar)
+
+## Autres liens ...
+
+[go to about](about)
 
 [find out motivation here](motivation)
