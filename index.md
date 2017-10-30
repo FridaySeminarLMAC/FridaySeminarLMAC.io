@@ -16,4 +16,4 @@ C'est l'occasion d'échanger sur ses thématiques de recherche, ainsi que de s'e
 
 [A propos](about)
 
-[find out motivation here](motivation)
+[Contact](mailto:fridayseminar.lmac@gmail.com)
