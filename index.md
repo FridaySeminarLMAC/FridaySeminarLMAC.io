@@ -10,10 +10,10 @@ C'est l'occasion d'échanger sur ses thématiques de recherche, ainsi que de s'e
 
 ## Calendrier et abstract des présentations à venir
 
-[go to calendar](calendar)
+[calendrier](calendar)
 
 ## Autres liens ...
 
-[go to about](about)
+[A propos](about)
 
 [find out motivation here](motivation)
