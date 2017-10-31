@@ -7,7 +7,7 @@ header_text: LMAC seminar
 calendar: true
 ---
 
-go back to home
+[go back to home](index)
 
 <div class="span9">
 	<h3>Calendar of Upcoming Events</h3>
