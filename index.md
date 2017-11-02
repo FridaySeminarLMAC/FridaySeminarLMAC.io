@@ -12,6 +12,8 @@ C'est l'occasion d'échanger sur ses thématiques de recherche, ainsi que de s'e
 
 [calendrier](calendar)
 
+[abstract](pdf)
+
 ## Autres liens ...
 
 [A propos](about)
