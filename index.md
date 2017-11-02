@@ -12,7 +12,7 @@ C'est l'occasion d'échanger sur ses thématiques de recherche, ainsi que de s'e
 
 [calendrier](calendar)
 
-<a href="abstract2.pdf" download = "abstract">
+<a href="abstract2.pdf"> download abstract = </a>
 
 ## Autres liens ...
 
