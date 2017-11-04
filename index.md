@@ -12,7 +12,9 @@ C'est l'occasion d'échanger sur ses thématiques de recherche, ainsi que de s'e
 
 [calendrier](calendar)
 
-<a href="abstract2.pdf"> abstract </a>
+<a href="abstract2.pdf"> abstract le 02 nov. 2017 </a>
+
+[abstract 10 nov. 2017](abstract/20171110_abstract_WangGAO)
 
 ## Autres liens ...
 
