@@ -5,11 +5,21 @@ title: Abstract 10 nov. 2017 - Wang GAO
 ## Méthodologie et Application à l'Inférence sur la Structure des Schémas de Mode d'Action en Toxicologie Prédictive
 
 
-Présenté par [Wang GAO](wang.gao@utc.fr) le 10 nov. 2017
+Présenté par [Wang GAO](mailto:wang.gao@utc.fr) le 10 nov. 2017
 
 ### Résumé
 
-Une structure des Schémas de Mode d'Action en Toxicologie, autrement appelée : - FR : des voies de toxicité- EN : **AOP** pour "Adverse outcome pathways"est un modèle qualitatif permettant de décrire la propagation des effets toxiques dans un système biologique. Cet outil est initialement conçu pour- Organiser schématiquement (par un **DAG** : **G**raph **D**irigé **A**cyclique) des connaissances en toxicologie ("connaissances" désignent un ensemble de relations causales / relation dose-effet) ;- Faciliter l'échange d'information ;
+Une structure des Schémas de Mode d'Action en Toxicologie, autrement appelée : 
+
+- FR : des voies de toxicité
+- EN : **AOP** pour "Adverse outcome pathways"
+
+est un modèle qualitatif permettant de décrire la propagation des effets toxiques dans un système biologique. 
+
+Cet outil est initialement conçu pour
+
+- Organiser schématiquement (par un **DAG** : **G**raph **D**irigé **A**cyclique) des connaissances en toxicologie ("connaissances" désignent un ensemble de relations causales / relation dose-effet) ;
+- Faciliter l'échange d'information ;
 
 Dans le cadre du projet européen EU-ToxRisk, l'accent est mis sur une variante de AOP classique, dite **qAOP** pour AOP quantitative. Reconstruire et paramétrer de tels modèles sur la base de données massives (données omiques, imagerie haut contenu etc.) est un défi scientifique, mais permettra de répondre aux enjeux que sont le remplacement de l'expérimentation animale et l'amélioration de la prédictivité des essais de toxicité haut débit.
 
