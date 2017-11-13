@@ -16,8 +16,8 @@ C'est l'occasion d'échanger sur ses thématiques de recherche, ainsi que de s'e
 
 ### Abstract
 
-- [Abstract le 03 nov. 2017 - Boutheina NEMOUCHI](abstract/abstract2.pdf)
-- [Abstract le 10 nov. 2017 - Wang GAO](abstract/20171110_abstract_WangGAO)
+- [Abstract du 03 nov. 2017 - Boutheina NEMOUCHI](abstract/abstract2.pdf)
+- [Abstract du 10 nov. 2017 - Wang GAO](abstract/20171110_abstract_WangGAO)
 
 ## Autres liens ...
 
