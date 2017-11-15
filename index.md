@@ -18,6 +18,7 @@ C'est l'occasion d'échanger sur ses thématiques de recherche, ainsi que de s'e
 
 - [Abstract du 03 nov. 2017 - Boutheina NEMOUCHI](abstract/abstract2.pdf)
 - [Abstract du 10 nov. 2017 - Wang GAO](abstract/20171110_abstract_WangGAO)
+- [Abstract du 17 nov. 2017 - Ivan Rukavina](abstract/abstract.pdf)
 - [Abstract du 24 nov. 2017 - Rekia Meriem Ahmed Bacha](abstract/abstract-meriem.pdf)
 
 ## Autres liens ...
