@@ -1,8 +1,9 @@
 ---
-title: Cours Statistique Bayésienne 01 dec. 2017
+title: "Cours Statistique Bayésienne"
+output: pdf_document
 ---
 
-## Statistique bayésienne
+## Statistique Bayésienne
 
 - [Josephine Merhi Bleik](mailto:josephine.merhi-bleik@utc.fr)
 - [Wang GAO](mailto:wang.gao@utc.fr)
@@ -11,7 +12,7 @@ Le 1er déc. 2017
 
 ### Résumé
 
-Considérons un modèle statistique paramétrique $f(x\right\vert\theta)$.
+Considérons un modèle statistique paramétrique $f(x|\theta)$.
 
 #### Approche classique
 
@@ -33,7 +34,7 @@ $\pi$ est appelée loi a priori. Intuitivement et en termes informationnels, ell
 
 #### Différence
 
-L'approche bayésienne se différencier donc de l'approche classique dans le sens où le paramètre $\theta$ du modèle statistique, $f(x\right\vert\theta)$, n'est plus considéré comme étant totalement inconnu; il est devenu une v.a. dont le comportement est supposé connu. On fait intervenir dans l'analyse statistique une distribution associée à ce paramètre.
+L'approche bayésienne se différencier donc de l'approche classique dans le sens où le paramètre $\theta$ du modèle statistique, $f(x|\theta)$, n'est plus considéré comme étant totalement inconnu; il est devenu une v.a. dont le comportement est supposé connu. On fait intervenir dans l'analyse statistique une distribution associée à ce paramètre.
 
 ----
 
