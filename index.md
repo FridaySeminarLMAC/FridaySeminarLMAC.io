@@ -16,6 +16,11 @@ C'est l'occasion d'échanger sur ses thématiques de recherche, ainsi que de s'e
 
 ### Abstract
 
+#### Décembre 2017
+- [Abstract du 03 nov. 2017 - Statistique Bayésienne](abstract/20171201_abstract_BayesAppoach)
+
+#### Novembre 2017
+
 - [Abstract du 03 nov. 2017 - Boutheina NEMOUCHI](abstract/abstract2.pdf)
 - [Abstract du 10 nov. 2017 - Wang GAO](abstract/20171110_abstract_WangGAO)
 - [Abstract du 17 nov. 2017 - Ivan Rukavina](abstract/abstract.pdf)
