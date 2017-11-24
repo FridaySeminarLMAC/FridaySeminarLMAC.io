@@ -1,6 +1,9 @@
 ---
 title: "Cours Statistique Bayésienne"
-output: pdf_document
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
 ---
 
 ## Statistique Bayésienne
@@ -46,7 +49,7 @@ Loi *a priori* ; Loi *a posteriori* ;  vraisemblance
 ### Plan provisoire du cours
 
 1. Rappel de probabilité
-    - Théorème de Bayes
+- Théorème de Bayes
 
 2. Problème d'estimation des paramètres
 
@@ -58,10 +61,11 @@ Loi *a priori* ; Loi *a posteriori* ;  vraisemblance
     5. Présenter les limitations de cette approche
 
 - Approche bayésienne
-    1. Lois a priori
-    1. Lois conjuguées
-    1. Lois impropres
-    1. Lois non informatives
+    1. Lois *a priori*
+        1.  Lois conjuguées
+        1.  Lois impropres
+        1.  Lois non informatives
+    1. Lois *a posteriori*
     1. Estimateurs ponctuels : Maximum *a posteriori*, moyenne *a posteriori*
     1. Exercices
 
