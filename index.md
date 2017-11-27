@@ -18,7 +18,7 @@ C'est l'occasion d'échanger sur ses thématiques de recherche, ainsi que de s'e
 
 #### Décembre 2017
 - [Abstract du 01 dec. 2017  - Statistique Bayésienne](abstract/20171201_abstract_BayesAppoach.html) ([PDF](abstract/20171201_abstract_BayesAppoach.pdf))
-- [Abstract du 08 dec. 2017  - Hernán Abaunza González](abstract/hernan-abstract.pdf) 
+- [Abstract du 15 dec. 2017  - Hernán Abaunza González](abstract/hernan-abstract.pdf) 
 
 #### Novembre 2017
 
