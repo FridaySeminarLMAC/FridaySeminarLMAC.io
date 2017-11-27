@@ -17,7 +17,7 @@ C'est l'occasion d'échanger sur ses thématiques de recherche, ainsi que de s'e
 ### Abstract
 
 #### Décembre 2017
-- [Abstract du 03 nov. 2017 - Statistique Bayésienne](abstract/20171201_abstract_BayesAppoach.html) ([PDF](abstract/20171201_abstract_BayesAppoach.pdf))
+- [Abstract du 01 dec. 2017  - Statistique Bayésienne](abstract/20171201_abstract_BayesAppoach.html) ([PDF](abstract/20171201_abstract_BayesAppoach.pdf))
 
 #### Novembre 2017
 
