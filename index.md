@@ -20,6 +20,7 @@ C'est l'occasion d'échanger sur ses thématiques de recherche, ainsi que de s'e
 - [Abstract du 01 dec. 2017  - Statistique Bayésienne](abstract/20171201_abstract_BayesAppoach.html) ([PDF](abstract/20171201_abstract_BayesAppoach.pdf))
 - [Abstract du 08 dec. 2017  - Samer Taoum](abstract/resume.pdf) 
 - [Abstract du 15 dec. 2017  - Hernán Abaunza González](abstract/hernan-abstract.pdf) 
+- [Abstract du 12 jan. 2018  - Boutheina NEMOUCHI](abstract/abstractsemianirelabo.pdf) 
 
 #### Novembre 2017
 
