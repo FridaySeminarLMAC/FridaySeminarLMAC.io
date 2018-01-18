@@ -18,7 +18,7 @@ C'est l'occasion d'échanger sur ses thématiques de recherche, ainsi que de s'e
 
 #### Janvier 2018
 - [Abstract du 12 jan. 2018  - Boutheina NEMOUCHI](abstract/abstractseminairelabo.pdf) 
-- [Abstract du 19 jan. 2018  - Graphes Aléatoires (mini-cours par Mohamed Habib Aliou Diallo Aoudi)
+- Abstract du 19 jan. 2018  - Graphes Aléatoires (mini-cours par Mohamed Habib Aliou Diallo Aoudi)
 
 #### Décembre 2017
 - [Abstract du 01 dec. 2017  - Statistique Bayésienne](abstract/20171201_abstract_BayesAppoach.html) ([PDF](abstract/20171201_abstract_BayesAppoach.pdf))
