@@ -17,7 +17,7 @@ C'est l'occasion d'échanger sur ses thématiques de recherche, ainsi que de s'e
 ### Abstract
 
 #### Février 2018
-- Abstract du 02 fev. 2018  - Youssef Rahmé (en attente de l'abstract)
+- [Abstract du 02 fev. 2018  - Youssef Rahmé](abstract/abstractseminairelabo.pdf) 
 
 #### Janvier 2018
 - [Abstract du 12 jan. 2018  - Boutheina NEMOUCHI](abstract/abstractseminairelabo.pdf) 
