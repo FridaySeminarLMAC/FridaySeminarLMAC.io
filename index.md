@@ -16,7 +16,7 @@ C'est l'occasion d'échanger sur ses thématiques de recherche, ainsi que de s'e
 
 ### Abstract
 
-#### Février 2018abstractseminairelabo.pdf
+#### Février 2018
 - [Abstract du 02 fev. 2018  - Youssef Rahmé](abstract/Abstract-2-2-2018.pdf) 
 
 #### Janvier 2018
