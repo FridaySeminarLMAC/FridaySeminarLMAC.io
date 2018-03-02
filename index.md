@@ -16,9 +16,6 @@ C'est l'occasion d'échanger sur ses thématiques de recherche, ainsi que de s'e
 
 ### Abstract
 
-#### Mars 2018
-- Abstract du 02 mar. 2018  - Hajer Khlaifi
-
 #### Février 2018
 - [Abstract du 02 fev. 2018  - Youssef Rahmé](abstract/Abstract-2-2-2018.pdf) 
 - [Abstract du 16 fev. 2018  - Brenda Garcia Maya](abstract/abstract-brenda.pdf)
