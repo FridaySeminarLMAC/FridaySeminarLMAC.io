@@ -18,7 +18,7 @@ C'est l'occasion d'échanger sur ses thématiques de recherche, ainsi que de s'e
 
 #### Mars 2018
 - 16 mar. 2018  - Mohamed Habib Aliou Diallo Aoudi
-- [Abstract du 30 mar. 2018  - Hajer KHLAIFI](abstract/Hajer.pdf) 
+- [Abstract du 30 mar. 2018  - Hajer KHLAIFI](abstract/Hajer.pdf)
 
 #### Février 2018
 - [Abstract du 02 fev. 2018  - Youssef Rahmé](abstract/Abstract-2-2-2018.pdf) 
