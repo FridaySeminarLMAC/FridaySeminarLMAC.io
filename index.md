@@ -16,6 +16,9 @@ C'est l'occasion d'échanger sur ses thématiques de recherche, ainsi que de s'e
 
 ### Abstract
 
+#### Avril 2018
+- [Abstract du 13 avr. 2018  - Tarik Fahlaoui](abstract/communication.pdf)
+
 #### Mars 2018
 - 16 mar. 2018  - Mohamed Habib Aliou Diallo Aoudi
 - [Abstract du 30 mar. 2018  - Hajer KHLAIFI](abstract/Hajer-abstract.pdf)
